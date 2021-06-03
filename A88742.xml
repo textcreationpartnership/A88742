@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The last weeks proceedings of the Lord Brooke. And the first in this his present expedition. Published for the satisfaction of all those who have voluntarily and liberally contributed towards the foundation of that publique worke.</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88742</idno><idno type="EEBO-CITATION">99860636</idno>
+  <idno type="VID">155744</idno>
+  <idno type="EEBO-PROQUEST">2240886108</idno>
+  
+            <idno type="STC">Wing L513</idno>
+            <idno type="STC">Thomason E91_19</idno>
+            <idno type="STC">ESTC R1931</idno>
+            <idno type="PROQUEST">99860636</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860636e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88742)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155744)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 16:E91[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The last weeks proceedings of the Lord Brooke. And the first in this his present expedition. Published for the satisfaction of all those who have voluntarily and liberally contributed towards the foundation of that publique worke.</title>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by R.O. and G.D.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>March 1. 1642 [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Royal arms, verso of p. 5, filmed with E.91[20].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Brooke, Robert Greville, --  Baron, 1607-1643.</term>
+               <term type="geographic_name">Lichfield (England) --  History --  Siege, 1643 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2015-02 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155744:1"/>
+            <p>THE LAST WEEKS PROCEEDINGS OF THE LORD BROOKE▪</p>
+            <p>AND The First in this His present <hi>Expedition.</hi>
+            </p>
+            <p>Published for the satisfaction of all those who have voluntarily and liberally contributed towards the foundation of that publique WORKE.</p>
+            <p>LONDON, Printed by <hi>R. O.</hi> and <hi>G. D.</hi> March 1. 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155744:2"/>
+            <pb n="1" facs="tcp:155744:2"/>
+            <head>The Last Weeks PROCEEDINGS OF THE LORD BROOKE: And the first in this present EXPEDITION.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Know it cannot bee unplea<g ref="char:EOLhyphen"/>sing unto you to heare we<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l of your Noble head, and his Lord<g ref="char:EOLhyphen"/>ships good beginnings, which presage better things, so farre as good Discipline and an industrious resolution bespeakes happi<g ref="char:EOLhyphen"/>nesse to an enterprise.</p>
+            <p>When our Carriages and Ammuni<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion was come to <hi>Northampton</hi> on <hi>Tuesday,</hi> that night
+<pb n="2" facs="tcp:155744:3"/> my Lord advanced towards <hi>Coventry,</hi> leaving behind him at <hi>Northampton</hi> part of his Men and Officers to raise more, with Ammunition answerable. By the way he sent a Party of Horse to Sir <hi>Thomas Caves</hi> House (who had formerly derided 60. Dragoneers sent out by <hi>Northampton</hi>) upon summons they resigned without opposition, and there wee were fur<g ref="char:EOLhyphen"/>nished with some 30. Horse; my Lord coun<g ref="char:EOLhyphen"/>termanding all plunder, which accordingly was performed, except a little parcell of Money which Captaine <hi>Browne</hi>'s cornet took from a Woman, for which since he is cashiered.</p>
+            <p>We came to <hi>Coventry</hi> on Wednesday, where my Lord, to lose no time issued out warrants to call in that part of the countrey to appeare on <hi>Saturd<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi> In the Interim his Lordship was ad<g ref="char:EOLhyphen"/>vertised of a Party of Horse (300) oft he enemies, come to <hi>Stratford</hi> upon <hi>Aven,</hi> whereupon his Lordship commanded 20. <hi>Dragoneers</hi> to give them an Alarum on <hi>Thursday.</hi> Thereby to pre<g ref="char:EOLhyphen"/>vent them of that quiet and rest they did not de<g ref="char:EOLhyphen"/>serve, &amp; which would make for his Lordships designe, and by the way foure of these <hi>Drago<g ref="char:EOLhyphen"/>neers,</hi> drove 6. of their scouts into Towne, and
+<pb n="3" facs="tcp:155744:3"/> the whole performed their businesse well, and kept our Enemies wakeing all that night. My Lord resolved to waite upon them on <hi>Friday</hi> night, and so wee marched from <hi>Coventry</hi> to <hi>Warwick</hi> where we were at 10 of the clock, we could not there (notwithstanding my Lords great industry, and personall care the best part of the night) furnish our carriages with Horse so speedily as was intended, so that it was nigh 8. of the clock before we came before <hi>Stratford.</hi> My Lord sent Horse to prevent intelligence, yet a country-man and friend of theirs, espying us 2. miles on this side, crossed the Fields, and gave the enemy advertisement, upon which they drew out themselves under a hill, where they could view us in our march, we drew the greatest part of our Artillery to the Vanne, they having the greatest part of our Horse, and we expediting the first charge there, but withall suspecting their wheeling about, we drew up our reere, so that we stood tryangle upon three <hi>hils</hi> in full <hi>view</hi> each of other; frō the <hi>reer</hi> divi<g ref="char:EOLhyphen"/>sion we let flie a drake, which ran through the midst of them, and forced them to wheele off towards the Town, and we hasted after them
+<pb n="4" facs="tcp:155744:4"/> so fast as our C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rriages and the plowd Lands well softened with the raine, would permit us. But our enemies hast was such, that we could not come within musquet shot of them Sir <hi>Ro<g ref="char:EOLhyphen"/>bert</hi> he was shot &amp; fel of his <hi>horse;</hi> we took his Cornet, who tenders 50 <hi>l.</hi> for his ransome, who tells us, that Sir <hi>Robert</hi> was to have bin made Colonell next weeke; we have his brave horse new saddle and Pistols. The enemy had some foot from the adjacent parts, but they forsooke him before we saw them, my Lord did much like himselfe in this service, and was both ac<g ref="char:EOLhyphen"/>tive and resolute; and his Serjeant Major <hi>Russell</hi> speakes himselfe, an experienced souldier. My Lords Footman, <hi>T. L.</hi> chased three of them in the sight of us all, Lievtenant Colonel <hi>Wagstaffe</hi> being one.</p>
+            <p>At our entery into the Towne <hi>Captaine William Bridges</hi> found in the Hall; Barrells of powder, which within an houre after blew up the town-house, which wounded Captain <hi>Hunt,</hi> bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> slew none▪ no doubt designed to have surprized my Lord and all his chiefe, pre<g ref="char:EOLhyphen"/>s<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ming they would have sate in councell there: My Lord wild his <hi>Commanders,</hi> that none
+<pb n="5" facs="tcp:155744:4"/> should plunder the town, although wee have some reason to believe they invited the Enemy. Its true the Major of <hi>Fsons Coronet,</hi> took an old <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>own, to watch in, but it was re-delivered: We returned to <hi>Warwicke</hi> last night, and this m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rning we are following another designe, and my Lords forces left at <hi>Coventry,</hi> joyne i<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>sue with us. The country comes in to <hi>Coventry:</hi> And so my Lords service in great multitudes, wherupon the Committee have sent for his Lordship, but I trust his Lordship will first dispatch the designe.</p>
+            <p>I commend to you this as the first fruits, and a good beginning to that whole, the which through Gods blessing, we may expect that great thing in my thoughts, being that good foundation of Piety, Discipline, and active reso<g ref="char:EOLhyphen"/>lution, which his Lordship hath and still desires to <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y. This I have writ not so much for what is done but what is well done, in hast, <hi>farewe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
